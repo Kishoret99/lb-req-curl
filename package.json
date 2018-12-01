@@ -1,0 +1,16 @@
+{
+  "name": "lb-req-curl",
+  "version": "1.0.0",
+  "description": "converts loopback post request to curl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loopback",
+    "curl",
+    "post"
+  ],
+  "author": "Kishore",
+  "license": "ISC"
+}
